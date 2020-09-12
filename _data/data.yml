@@ -29,43 +29,36 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Korean
+        level: Conversational
 
       - idiom: Spanish
         level: Professional
 
     interests:
-      - item: Drawing
+      - item: Gaming
         link:
 
-      - item: Guitar
+      - item: Music
         link:
 
-      - item: Cooking
+      - item: Cooking & Dining
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Software Engineer with 8 years of experience building high traffic backend services. 
+      Track record of reducing engineering overhead with well-factored, well-tested, and well-documented applications. 
+      I am a creative problem solver 
 education:
     - degree: BA in English
       university: University of California, Irvine
       time: 2008-2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Studied Literature, Philosophy and Rhetoric. Also coursework included:
+          - Computer Science
+          - Mathematics
 experiences:
     - role: Owner
       time: August 2019 - present
@@ -86,6 +79,11 @@ experiences:
       time: July 2016 - July 2019
       company: Red Ventures, Pasadena CA
       details: |
+        Joined Wallaby - Credit card reward tracking application. Responsible for
+        maintaining and enhancing features on API services.
+        
+        Stack:
+            - Monolithic 
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -157,22 +155,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java/Spring Boot
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Ruby
         level: 98%
 
-      - name: Angular
+      - name: Node.js
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Python
         level: 95%
 
-      - name: Ruby on Rails
+      - name: HTML, CSS & Javascript
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: React
         level: 60%
 
 footer: >
