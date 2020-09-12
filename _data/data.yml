@@ -67,9 +67,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Senior Software Engineer
-      time: 
-      company: Startup Hubs, San Francisco
+    - role: Owner
+      time: August 2019 - present
+      company: Green Street Digital, Pasadena CA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -83,8 +83,8 @@ experiences:
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: July 2016 - July 2019
+      company: Red Ventures, Pasadena CA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -93,8 +93,8 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
+    - role: Software Engineer
+      time: 2015-June 2016
       company: Amazon, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
