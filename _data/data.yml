@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jonathan Shin
-    tagline: Full Stack Developer
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -39,15 +39,23 @@ sidebar:
       - item: Gaming
         link:
 
-      - item: Music
+      - item: Music & Art
         link:
 
       - item: Cooking & Dining
         link:
 
+      - item: Traveling
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
+      Been writing applications since middle school. Started off writing little script snippets for friend's blog pages.
+      During university, I took a class in discreet mathematics and discovered that it's possible to construct compelling arguments for my English classes.
+      My second year I switched to an English curriculum while working as a QA and a technical writer for a local POS developer POSIT inc.
+      I joined an advertising agency and found myself composing a ton of spreadsheets.
+
       Software Engineer with 8 years of experience building high traffic backend services. 
       Track record of reducing engineering overhead with well-factored, well-tested, and well-documented applications. 
       I am a creative problem solver 
@@ -64,33 +72,29 @@ experiences:
       time: August 2019 - present
       company: Green Street Digital, Pasadena CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Software consulting for small/independent businesses.
+        Launching eCommerce experiences and online brand development.
+        Technical coaching and training.
+          - Launched Le Mieux Skincare retail $750K in first year revenue.
+          - Supported Le Mieux Professional to funnel yearly $2M in sales over eCommerce channels
+          - Technical support for closure affected restaurants
     - role: Senior Software Engineer
       time: July 2016 - July 2019
       company: Red Ventures, Pasadena CA
       details: |
         Joined Wallaby - Credit card reward tracking application. Responsible for
         maintaining and enhancing features on API services.
-        
         Stack:
-            - Monolithic 
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+            - Java 6, Spring, Tomcat, MySQL, Jenkins
+          - Pioneered microservice approach refactoring core credit card reward processing algorithms
+            - Java 8, Spring Boot, Project Reactor (WebFlux), Postgres, Elasticsearch, Redis
+         
+        Authored backend services for Wallaby, CreditCards.com, Bankrate, The Points Guy.
+          - OAuth/User Profile/Identity
+          - Marketing Automation
+          - Card and Reward Searches
+          - Credit Card Transaction Aggregation & Categorization
+          - Microservice message bus with Kafka
     - role: Software Engineer
       time: 2015-June 2016
       company: Amazon, London
